@@ -1,4 +1,22 @@
-frames_boxes_idless_valids
-IMG_8639.MOV
-output.mp4
-video_cropped.mp4
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Outputs
+frames_*/
+*.mp4
+*.MOV
+*.mov
+*.avi
+*.mkv
+recognized_containers*.txt
+
+# Models (weights)
+models/*.pt
+models/*.onnx
+
+# IDE / OS
+.vscode/
+.DS_Store
