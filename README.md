@@ -1,9 +1,28 @@
+
+
 # container_code_recognition_video
 
-To run recognition on video run:
+## Output
+Recognized containers (video + txt results):
+
+https://drive.google.com/drive/folders/1GMNUIOKtN4irSzwqg8wiLG6xY3EHr
+
+---
+
+## How to run recognition
+
 ```bash
 python main_save_frames_hand_box.py
+# container_code_recognition_video
 
+# Output
+Recognized containers (video + txt results):
 
+https://drive.google.com/drive/folders/1GMNUIOKtN4irSzwqg8wiLG6xY3EHr
 
-output video and txt = 'https://drive.google.com/drive/folders/1GMNUI0KtN4irSZwqg8wiLG6xY3EHRrWJ?usp=sharing'
+---
+
+## How to run recognition
+
+```bash
+python main_save_frames_hand_box.py
